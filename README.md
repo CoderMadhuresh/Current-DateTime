@@ -7,3 +7,5 @@ Welcome to the Current Date and Time App! This simple application displays the c
 - Real-time display of the current date and time.
 - Clean and minimalistic user interface for ease of use.
 - Lightweight and fast performance.
+  
+![image 5](https://github.com/CoderMadhuresh/Current-DateTime/assets/107340310/fe7d5463-8b12-46ae-80af-a0d100e5d236)

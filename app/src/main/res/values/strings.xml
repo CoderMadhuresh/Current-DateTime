@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Date and Time</string>
+    <string name="current_date_and_time">Current Date and Time</string>
+</resources>
